@@ -8,9 +8,9 @@ An entry for make.fun's "Post a GTA 6 meme on X" bounty ($500, 50 places).
 
 ## The meme
 
-A tired gamer on a Florida couch stares at his TV while GTA VI downloads: **99%, 847 GB, "Time remaining: 13 years"**. Beside him on the couch sits make.fun's ghost mascot, watching too. The joke is the thirteen-year wait since GTA V, told in one picture — pizza, controllers, palm trees at sunset, and a download bar that will outlive us all.
+A group chat, "Squad Leonida", across thirteen years. GTA 6 launches in 2026 — Dave sells his car for the $100 edition, Mike 100%s it in a weekend and finds his life empty, and Dave immediately asks "so... GTA 7 when". Sam's son is born; by 13 he'll still hear "coming soon". In 2039 GTA 7 finally drops — 2 TB, and Mike's SSD files for bankruptcy. make.fun's ghost mascot is the group's avatar and drops in as a sticker, and Vlad closes it: "I waited 13 years for GTA 7 for free. my agent gets paid. make.fun"
 
-The picture is `meme.png` (1920×1280). The ghost is make.fun's real mascot from its press kit, worked into the scene — not a sticker in a corner.
+The picture is `meme.png` (1080×1080). The ghost is make.fun's real mascot from its press kit — in the group avatar and as a sticker in the chat — not a sticker pasted in a corner.
 
 ## The post
 
